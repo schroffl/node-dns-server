@@ -11,7 +11,7 @@ The rule
 > A 127.0.0.1 IN
 ```
 
-leads this output from [dig](https://en.wikipedia.org/wiki/Dig_(command))
+leads to this output from [dig](https://en.wikipedia.org/wiki/Dig_(command))
 
 ```
 > dig a google.com @127.0.0.1
